@@ -1,6 +1,6 @@
-name: LightningDeath
+name: LightningEvents
 author: NikoTBC
-main: LightningDeath\LightningDeath
-version: 1.0.0
+main: LightningEvents\LightningEvents
+version: 1.1.0
 api: [1.13.0]
-description: A simple plugin that spawn lightning on player death!
+description: A simple plugin that spawn lightning on few player events!
